@@ -1,6 +1,6 @@
 # DataAnalysis
 
-This repository is for the projects I've done for data analysis.
+This repository is for the projects I have done for data analysis.
 
 # Technical Skills
 
