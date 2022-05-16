@@ -30,6 +30,7 @@ ax.bar_label(p2)
 
 plt.show()
 
+<<<<<<< HEAD
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
@@ -52,3 +53,5 @@ ax.bar_label(hbars, fmt='%.2f')
 ax.set_xlim(right=15)  # adjust xlim to fit labels
 
 plt.show()
+=======
+>>>>>>> fb5158cfe1a12beb8b44e3890da78552e756c8bd
