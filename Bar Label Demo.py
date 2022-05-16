@@ -29,3 +29,4 @@ ax.bar_label(p2, label_type='center')
 ax.bar_label(p2)
 
 plt.show()
+Figure_1.png
