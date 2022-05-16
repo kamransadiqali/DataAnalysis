@@ -12,4 +12,4 @@ This repository is for the projects I have done for data analysis.
 - Microsoft Visual Studio Code
 - SQL
 - R
-![Coursera 9VUUBMW3QLK9](https://user-images.githubusercontent.com/105550218/168650798-7f544d04-429f-447c-854c-f352594d51ce.jpg)
+[Coursera 9VUUBMW3QLK9.pdf](https://github.com/kamransadiqali/DataAnalysis/files/8702224/Coursera.9VUUBMW3QLK9.pdf)
